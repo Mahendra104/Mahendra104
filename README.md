@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<h1 align="center">Hi 👋, I'm Guna Nalam</h1>
+<h1 align="center">Hi 👋, I'm Bala Mahendra</h1>
 <h3 align="center"> CSE student at VIT Vellore | Web Developer</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="./Image1.jpg">
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring Web Development
 
-- Solved 500+ Problems on Leetcode
+- Solved 250+ Problems on Leetcode
 
-- 📫 You can reach me at **nalamguna15@gmail.com**
+- 📫 You can reach me at **p.balamahendra10@gamil.com**
 
 <br>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering 
-  - CGPA: 9.33
+  - CGPA: 8.62
 
 ## 🌐 Accounts:
 
@@ -82,36 +82,36 @@ Here are some ideas to get you started:
 
 # 🏆 Achievements:
 
-- 🌟 Solved 400+ problems on Data Structures and Algorithms.
+- 🌟 Solved 200+ problems on Data Structures and Algorithms.
 - 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22.
-- 🌟 2 Star Coder on Codechef
 
 ## 💼 Experience 
 
-- **Defence Research and Development Organisation(DRDO)** (01-August-2023- 31-October 2023)
-  - Research Intern (Hyderabad)
+- **Automatic Data Processing(ADP)** (07-August-2023- 7-November-2023)
+  - GPT Intern (Hyderabad)
     - Worked on controlling/adjusting the path length of the laser with respect to the temperature changes.
     - It is popularly used in navigation in submarines.
 
 <br>
-
+<!--
+This is a comment. Comments are not displayed in the browser
 ## 🚀 Projects 
-
 - **EventWhiz** (October 2022 - November 2022)
   - [Deployment Link](https://event-whiz-frontend.vercel.app/)
   - [GitHub Repository](https://github.com/GunaNalam/EventWhiz_Frontend)
   - Tools & Technologies used: HTML, CSS, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB, AWS. 
   - Designed and developed the Frontend module for EventWhiz project with HTML, CSS, Bootstrap and ReactJs.
   -  This helps people to Host and attend events with a single click.
+-->
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=GunaNalam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GunaNalam&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GunaNalam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mahendra104&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahendra104&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra104&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=GunaNalam&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mahendra104&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
