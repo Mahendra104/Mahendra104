@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <br>
 
 ## 📄 Resume 
-[![Resume](https://docs.google.com/document/d/1HQkZD6oKBWKViyNh6ZAEo6-qpbSNrkRlgNuKRJZ7Pkg/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://docs.google.com/document/d/1HQkZD6oKBWKViyNh6ZAEo6-qpbSNrkRlgNuKRJZ7Pkg/edit?usp=sharing)
+
 
 ## 📚 Education 
 
