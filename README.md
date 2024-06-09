@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me 
 
-- 🌱 I’m currently exploring Web Development
+- 🌱 I’m currently exploring Web Development and Artificial Intelligence
 
 - Solved 250+ Problems on Leetcode
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering 
-  - CGPA: 8.62
+  - CGPA: 8.63
 
 ## 🌐 Accounts:
 
@@ -84,26 +84,17 @@ Here are some ideas to get you started:
 # 🏆 Achievements:
 
 - 🌟 Solved 200+ problems on Data Structures and Algorithms.
-- 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22.
 
 ## 💼 Experience 
 
 - **Automatic Data Processing(ADP)** (07-August-2023- 7-November-2023)
   - GPT Intern (Hyderabad)
-    - Worked on controlling/adjusting the path length of the laser with respect to the temperature changes.
-    - It is popularly used in navigation in submarines.
+    -Utilized Splunk SPL to create impactful visualizations of key log data.
+    -Designed an interactive dashboard with a tailored user interface, improving user experience and simplifying data analysis.
+    -Investigated and integrated diverse UI components to boost user engagement and enhance dashboard interactivity.
 
 <br>
-<!--
-This is a comment. Comments are not displayed in the browser
-## 🚀 Projects 
-- **EventWhiz** (October 2022 - November 2022)
-  - [Deployment Link](https://event-whiz-frontend.vercel.app/)
-  - [GitHub Repository](https://github.com/GunaNalam/EventWhiz_Frontend)
-  - Tools & Technologies used: HTML, CSS, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB, AWS. 
-  - Designed and developed the Frontend module for EventWhiz project with HTML, CSS, Bootstrap and ReactJs.
-  -  This helps people to Host and attend events with a single click.
--->
+
 
 # 📊 GitHub Stats:
 
