@@ -90,7 +90,9 @@ Here are some ideas to get you started:
 - **Automatic Data Processing(ADP)** (07-August-2023- 7-November-2023)
   - GPT Intern (Hyderabad)
     -Utilized Splunk SPL to create impactful visualizations of key log data.
+    
     -Designed an interactive dashboard with a tailored user interface, improving user experience and simplifying data analysis.
+    
     -Investigated and integrated diverse UI components to boost user engagement and enhance dashboard interactivity.
 
 <br>
